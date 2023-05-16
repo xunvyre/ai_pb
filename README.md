@@ -10,9 +10,9 @@ Branding and other design elements had to align with previously established corp
 In the future, the client will be able to upload pictures themself, rather than having to rely on updates to the hardcoded images.
 
 ## Built With
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Website
 TBD
